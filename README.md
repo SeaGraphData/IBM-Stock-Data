@@ -23,3 +23,13 @@ does not require any Python programming skills and can be followed by any partic
 - [Python Tutorial](https://www.python.org/about/gettingstarted/)
 - [Jupyter Notebook documentation](https://jupyter.readthedocs.io/en/latest/index.html)
 - [Jupyter Notebook tutorial](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
+
+
+## Dependencies
+
+|item|version|licence|package info|
+|---|---|---|---|
+|python|3.10.13|PSF|https://docs.python.org/3/license.html|
+|matplotlib|3.8.3|PSFL|https://matplotlib.org/stable/users/project/license.html|
+|pandas|2.2.1|BSD-3|https://pandas.pydata.org|
+|numpy|1.3.0|BSD-3|https://numpy.org/doc/stable/index.html|
